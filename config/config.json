@@ -1,0 +1,45 @@
+{
+
+    "reviews":{
+        "contentType":"text/plain",
+        "uniqueIdentifier":"page_id",
+        "isList":"false"
+    },
+    "reviewsnapshot": {
+        "contentType":"text/plain",
+        "uniqueIdentifier":"page_id",
+        "isList":"false"
+    },
+    "recommendation": {
+        "contentType":"text/plain",
+        "uniqueIdentifier":"page_id",
+        "isList":"false"
+    },
+    "review_count": {
+        "contentType":"text/plain",
+        "uniqueIdentifier":"page_id",
+        "isList":"false"
+    },
+    "face-off": {
+        "contentType":"text/plain",
+        "uniqueIdentifier":"page_id",
+        "isList":"false"
+    },
+    "rollup": {
+        "contentType":"text/plain",
+        "uniqueIdentifier":"page_id",
+        "isList":"false"
+    },
+    "skusummary":{
+        "contentType":"text/plain",
+        "uniqueIdentifier":"none",
+        "isList":"false"
+    },
+    "perfectoffer":{
+        "contentType":"text/plain",
+        "uniqueIdentifier":"none",
+        "isList":"false"
+    }
+
+
+}
